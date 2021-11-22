@@ -1,0 +1,5 @@
+.idea/
+SalesChampTask.iml
+
+# Project exclude paths
+/target/
